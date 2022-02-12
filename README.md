@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Switt Chawanwanidchai from Bangkok, Thailand, I am a self-taught developer. I am able to learn new skills and expanding my knowledge.
+- 👀 I’m interested in data related stuffs especially data engineering.
+- 🌱 I’m currently learning Cloud platform and NoSQL.
+- 📫 How to reach me via email (switt.chaw@gmail.com) or LinkedIn (https://www.linkedin.com/in/swittchawanwanidchai/)
